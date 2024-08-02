@@ -1,1 +1,3 @@
 # JobTrust-Ensuring-Authenticity-in-Job-Listings-with-Ensemble-Learning
+## Introduction 
+In today's digital job market, the proliferation of fake job postings has become a significant concern, leading to potential risks for job seekers. This project addresses this challenge by developing a model that classifies job openings as real or fake using advanced ensembling techniques. Leveraging a combination of Natural Language Processing (NLP) methods, the model analyzes textual features of job descriptions to detect deceptive patterns. By integrating multiple classifiers, this project aims to enhance the accuracy and reliability of fake job posting detection, contributing to a safer online job search environment.
